@@ -7,3 +7,5 @@ function fibo(n) {
 
 console.log(fibo(8));
 console.log(fibo(10));
+console.log(fibo(12));
+console.log(fibo(13));
